@@ -145,5 +145,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 JAZZMIN_SETTINGS={
     'site_header': "UNAB",
     'site_logo': "assets/img/favicon UNAB.png",
+    'copyright': "unab.edu.co"
 }
     
